@@ -1,0 +1,10 @@
+max_connections = 500
+innodb_buffer_pool_size = 3G
+innodb_buffer_pool_instances = 16
+innodb_lock_wait_timeout = 100
+max_allowed_packet=400M
+interactive_timeout=100
+wait_timeout=100
+event_scheduler = ON
+skip-host-cache
+skip-name-resolve

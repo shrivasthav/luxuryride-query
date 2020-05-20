@@ -1,0 +1,33 @@
+SELECT REPLACE(expected_price'? ','') from dummy_scrap_tbl;------ expected price
+
+8217381753
+
+blr.team@luxuryride.in
+e@r@avw1
+
+
+www.oceanofgames.com
+
+
+SELECT * FROM INFORMATION_SCHEMA.events;
+
+DELIMITER $$
+
+DROP EVENT IF EXISTS employee_vehicle_assignment_event $$
+
+CREATE DEFINER=`root`@`%` 
+EVENT `employee_vehicle_assignment_event` 
+ON SCHEDULE EVERY 10 MINUTE STARTS '2019-10-15 00:00:00' 
+ON COMPLETION NOT PRESERVE ENABLE 
+DO  CALL EmployeeVehicleAssignment;
+
+https://www.photovisi.com/photovisi/overlapping-fade
+
+
+ALTER EVENT InActiveInvesterInterestsEvent DISABLE;
+ALTER EVENT employee_vehicle_assignment_event disable;
+
+
+3667 epfo  101119083123-Shri18151$
+
+axis credit - 5240rs done
